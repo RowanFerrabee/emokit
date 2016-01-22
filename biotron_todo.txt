@@ -1,0 +1,7 @@
+TODO List:
+	-Figure out HIDAPI
+	-Compile src
+	-Try running it on local
+		-Plug in & compile & see what happens
+	-Write function to cout << raw_data << endl;
+	-Write graphic library that reads raw data and graphs it
